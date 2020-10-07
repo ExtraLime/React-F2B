@@ -12,6 +12,8 @@ logs
 .env
 .env.local
 github-find/.env.local
+github-find/node_modules
+
 
 # Ignore IDE specific files
 .idea/
