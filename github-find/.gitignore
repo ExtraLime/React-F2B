@@ -19,3 +19,6 @@ github-find/node_modules
 .idea/
 .vscode/
 *.sw*
+
+# Local Netlify folder
+.netlify

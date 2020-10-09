@@ -21,7 +21,6 @@ const Search = () =>  {
             setText('')
         }
     };
-       
         return (
             <div>
                 <form onSubmit={onSubmit} className="form">
