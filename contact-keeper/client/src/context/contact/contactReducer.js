@@ -45,6 +45,14 @@ export default (state, action) => {
         current: null,
         loading: false,
       };
+      case CLEAR_CONTACTS:
+        return {
+          ...state,
+          contacts: null,
+          filtered: null,
+          error: null,
+          current: null
+        };
     case UPDATE_CONTACT:
       return {
         ...state,

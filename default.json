@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://lime:contactpass@contactkeeper.evcdc.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
