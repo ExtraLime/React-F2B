@@ -1,42 +1,42 @@
 {
   "logs": [
     {
-      "message": "fixed that",
+      "id": 2,
+      "message": "changed the textsda",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-10-16T03:37:17.248Z"
+    },
+    {
+      "id": 3,
+      "message": "fixed the other and edited it",
+      "attention": true,
+      "tech": "Meg McPherson",
+      "date": "2020-10-16T03:55:39.573Z"
+    },
+    {
+      "id": 4,
+      "message": "ok ok now, i think it works",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2020-10-15T05:04:46.258Z",
-      "id": 2
-    },
-    {
-      "message": "fixed the other",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-10-15T05:04:57.259Z",
-      "id": 3
-    },
-    {
-      "message": "ok",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-10-15T05:09:11.743Z",
-      "id": 4
+      "date": "2020-10-15T06:43:25.411Z"
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
       "firstName": "Jill",
       "lastName": "Doe",
       "id": 4
+    },
+    {
+      "firstName": "Meg",
+      "lastName": "McPherson",
+      "id": 5
+    },
+    {
+      "firstName": "Someone",
+      "lastName": "Else",
+      "id": 6
     }
   ]
 }
